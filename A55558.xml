@@ -1,0 +1,1254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Powels answer to a late fictitious pamphlet put forth by two leading Quakers, viz. John Vaughton and John Feild in which their account of a discourse between them and him is here rectified : every thing that is material in their said book answered and several notorious lies therein detected to the just shame of the publishers : also good counsel in the conclusion of the whole to such that are the principal leaders of the Quakers ... with an epistolary discourse touching the imputation of sin to Christ ...</title>
+            <author>Powell, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55558</idno>
+            <idno type="STC">Wing P3067B</idno>
+            <idno type="STC">ESTC R24064</idno>
+            <idno type="EEBO-CITATION">07944577</idno>
+            <idno type="OCLC">ocm 07944577</idno>
+            <idno type="VID">40635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1211:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Powels answer to a late fictitious pamphlet put forth by two leading Quakers, viz. John Vaughton and John Feild in which their account of a discourse between them and him is here rectified : every thing that is material in their said book answered and several notorious lies therein detected to the just shame of the publishers : also good counsel in the conclusion of the whole to such that are the principal leaders of the Quakers ... with an epistolary discourse touching the imputation of sin to Christ ...</title>
+                  <author>Powell, Thomas.</author>
+                  <author>Vaughton, John, 1644-1712.</author>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>[9], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40635:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r. POWELS Anſvver To A Late <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>CTITIOUS PAMPHLET PUT FORTH BY <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o Leading Quakers, <hi>viz. John Vaughton</hi> AND <hi>John Feild.</hi>
+            </p>
+            <p>In Which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ACCOUNT of a Diſcourſe between Them and Him is here <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tified, every Thing that is Material in Their ſaid Book, An<g ref="char:EOLhyphen"/>ſwered, and ſeveral Notorious Lies therein detected, to the Juſt Shame of the Publiſhers.</p>
+            <p>ALSO Counſel in the Concluſion of the Whole, to ſuch that are the Principal Leaders of the <hi>Quakers,</hi> or any that are Promoters of Fundamental Errors.</p>
+            <p>WITH <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſtolary Diſcourſe Touching the Imputation of Sin to CHRIST, and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſonant Teſtimonies of Divines both Ancient and Modern about it.</p>
+            <q>
+               <bibl>Ignatius <hi>Martyr in his Epiſtle</hi> ad Trallianos.</bibl> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dam vaniloqui, &amp; mentis Seductores, non Chriſtiani, ſed Chriſtum Mer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, &amp; Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ponantes Verbum Evangelii, qui venenum Erroris commiſcentes <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>blandimento, ſicut anomeli, ut qui biberit illius potus guſtabilem ſenſum, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ine captu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in obſervanter Morti addicatur.</q>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>re certain vain Talkers and Seducers, not Chriſtians, but ſuch as make <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>andize of Chriſt and his Goſpel, who mingle the Poiſon of their Er<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> with ſweet and pleaſing words, as Vintners that mingle Honey with Wine, ſo that he which drinketh of that pleaſant Cup, being delighted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Taſte, is unawares mortally poiſoned.</hi>
+            </p>
+            <q>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> firſt in his own cauſe ſeemeth juſt, but his Neighbour cometh and ſearch<g ref="char:EOLhyphen"/>eth, him, <bibl>
+                  <hi>Prov. 18.17.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1676.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:40635:2"/>
+            <pb facs="tcp:40635:2"/>
+            <head>To the Impartial and Judicious READER.</head>
+            <p>THO<g ref="char:V">Ʋ</g> canſt not be unſenſible of thoſe Volumnes (written by able Men) which have diſcover'd the Errours, Hereſies and Blaſphemies of theſe times, and many excellent Trea<g ref="char:EOLhyphen"/>tiſes in Print there are particularly, againſt that turbulent and incorrigible Sect, <hi>viz. Crakers;</hi> eſpecially ſuch, that have been impoſed by Mr. <hi>Hicks,</hi> Mr. <hi>Faldo,</hi> and Mr. <hi>Haworth,</hi> who have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought ſuch things to light, that will for ever render the <hi>Quakers</hi> the eſt diſingenious People, that hath been in any Age whatſoever. The conſideration of which diſcouraged me (knowing my inabilities) from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tempting any thing of this Nature, and ſo thought to have ſlighted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Adverſaries Book by Silence, being alſo well ſatisfied, that neither Chriſtians, nor my Acquaintance, would give credit to any thing the <hi>Quakers</hi> ſhould ſay of me; but after mature deliberation,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Proverb is, <hi>Oculus &amp; Eama non pa<g ref="char:EOLhyphen"/>tiuntur joces,</hi> A Mans Eye, and his good Name can bear no Jeſts.</note> togethe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with advice, I found there was a neceſſity to clear my ſelf from thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſs things, that they would have fain ſuggeſted to the World concern<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g me. Hereupon I betook my ſelf to Pen and Paper, and at length time brought forth this little Script, which I ſubmit to the Judge<g ref="char:EOLhyphen"/>ment of all indifferent Perſons, that will be at the pains to underſtand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Occaſion of the late Clamours, that divers of this vexatious ſort, <hi>viz. Cuakers,</hi> have made about my ſelf.</p>
+            <p>Some time ago, walking by the houſe of <hi>John Vaughton,</hi> I was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſired by him to go into his Houſe, who upon his Requeſt immediately <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſented, (he being Related to me by Marriage.) and a little while <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntinued thus friendly together, as afore-time we uſed to do; but at <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at time above all the reſt we could not agree, arguing <hi>Pro &amp; Con,</hi> till to much Fierceneſs breaks forth, 'tis probable, upon both ſides; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thing occaſioning at other, I came to ſay, that Jeſus Chriſt was a ſinner, and yet no ſinner; and further added, that he was the greateſh Sinner in the world, as I could make out; This he deſir'd under my Hand, which I readily yielded unto (being unacquainted with the <hi>Qua<g ref="char:EOLhyphen"/>ters</hi> ſubtilty) for I gave it under my Hand only as a <hi>Theſis,</hi> to be made out by me at that time, and ſo no more of it, but whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he had got<g ref="char:EOLhyphen"/>ten it into his hands, he would not let me have it again, unleſs I would fully recant it; unto which I Replied, I ſhould not, becauſe I could
+<pb facs="tcp:40635:3"/>make it out, ſaying, that it was to be under ſtood by Imputation, re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing the word ſeveral times over. A little while after he maketh <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pies of what I had given under my hand, and cometh to thoſe Meet<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> houſes where I uſed to Preach, oppoſing me in a malicious reproac<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> manner, ſcattering thoſe Papers amongſt the People, up and down ſtreets, as Doctors Bills, wherein was writteis theſe words,</p>
+            <q>Jeſus Chriſt was the greateſt Sinner in the World, I <hi>Thomas Po<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of the Goſpel, Miniſter, affirms.</q>
+            <p>Yea, ſuch was their exceeding great envy, that there was no ſtone unturn'd, or means unattempted, to take away my good name; Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great was the pretended impulſe of the ſpirit in them, that they co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> not be ſatisfied with diſturbing me in <hi>London,</hi> but they came ab<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> twenty Miles into the Countrey in <hi>Hartfordſhire,</hi> a Place where <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Preach every other Lords Day, (out of pure love to ſouls, and not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of love to lucre, as the <hi>Quaker</hi> falſely inſinuates, and that theſe th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> years almoſt, only Charges defray'd, and that not till very lately<g ref="char:punc">▪</g> There theſe <hi>Quakers</hi> came three times together, ſcattering their Pap<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> up and down in the Countrey, as before in the City, ſtanding upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> For n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, upbraiding againſt me, telling the People, that if they follow their Prieſt, they would go to hell; And all this in the Aftornoon b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore I came. I having information of it, I repaired to my place ſoon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then I intended, and made ſhift to get through the Crowd to the Pulp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beholding the Aſſembly in a great Confuſion, which fill'd me with inex<g ref="char:EOLunhyphen"/>preſſible grief, conſidering alſo my ſelf to be but one, and they many and of ſuch a ſort of People, whoſe humors and ſubtilties I was not we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> acquainted with. I endeavored to ſilence them, telling them, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had ſomthing to ſay to them, but ſtill they prated to the people, venti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their heretical Notions, and drowning me with their <hi>Stentorian</hi> voi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that I could not have the liberty to Apologize for my ſelf, though in my own place, People there being not ſo docible and ready to defend their Miniſter, as in <hi>London:</hi> theſe things coming together, provok'd Paſ<g ref="char:EOLhyphen"/>ſion, (and not without cauſe,) as that I ſaid to one of them, <hi>Sirrah, come down;</hi> And withal ſaid to the People, <hi>Sirs, We muſt be forc'd to depart, (if we would not loſe this Afternoon) for what ſhall we do with them, unleſs they are whip'd, ſcourg'd or put into the Stocks:</hi> And I avouch ſtill, they deſerv'd to be ſerv'd ſo, becauſe we who would have ſerv'd God in the Ways of his Appointments, were ſcandaliz'd, upon the Account of that Confuſion and <g ref="char:V">Ʋ</g>proar which
+<pb facs="tcp:40635:3"/>they made, and we no wayes could help our ſelves. Nay, it is uncre<g ref="char:EOLhyphen"/>able, unleſs you had been preſent. So rude, and ſo uncivil, were the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rriage and actions of theſe Men, that one would have thought they ſome from a <hi>Bear-Garden,</hi> people telling them ever and anon, that the Lords day was not a day for ſuch things to be debated, and they took as the courſe whereby to win upon people. Yet notwithstanding all his, they would have their own ways, binding us to their Lawes, Nay, one of them had ſuch a brazen Fore-head, as to tell <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they would not go out of the place unleſs I would diſpute the Point, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n when I ſhould Preach, or ſuffer them to declare their Teſtimony gainst me to the people. And then they would depart.</p>
+            <p>I told them I dared not enter into a Diſputation on the Lords day, and at that time when I ſhould Preach. If you will defend your ſelf, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y they, we will tarry till you have done Preaching, I ſtill alledg'd an conveniency of ſo doing, in reſpect of the day, and then of my inabili<g ref="char:EOLhyphen"/>ty, which without doubt would have been, if I after I had Preach'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice, had then engaged with all them that were freſh. The Aſſembly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing great for a Countrey Aſſembly, I was mov'd with compaſſion of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l, and being loth to loſe the opportunity of Preaching to them, I was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illing to condeſcend to any probable way to pleaſe my Adverſaries, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erefore told them that I would diſcourſe the Point on the <hi>Monday</hi> allowing, aſſoon in the Morning as they would, at which all the People <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uted, ſaying, It was fair, It was fair; yet unto this would not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe Men yield, unleſs Articles were ſubſerib'd unto, after what man<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Diſputation ſhould be managed, and all this on the Lords Day, which would have taken up our preſent opportunity, whereas I would not we made any ſuch Propoſal to them about diſputing with them my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f, had it not been pure Neceſſity, <hi>viz.</hi> to pleaſe the Adverſaries, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut ſo we might not loſe our preſent opportunity of waiting upon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d in his way, as we eſteem'd; but ſuch Royſters were they, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y would have their own way in ſpight of our Teeth, inſomuch that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y made us who were a great Aſſembly, to deſert our Place, for could not get them out, unleſs (as aforeſaid) we would have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ip'd them, and Scourg'd them, which were the occaſion of my taking thoſe words; And after we were gone, two of thoſe <hi>Qua<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> got into my Pulpit, and there Preach'd, only (I think) they throw'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Cuſhion.</p>
+            <p>
+               <pb facs="tcp:40635:4"/>After this I was forc'd by reaſon of their defaming me, to put fort<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Paper in defence of my ſelf, Entituled, <hi>A Word to the Wiſe is <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ough;</hi> which I have here Inſerted for the Information of ſuch, that might not ſee the Paper alone. Since this, the <hi>Quakers</hi> put forth Book againſt me, which is, That that I have Anſwer'd in the enſuing Sheets; And thus, <hi>Reader,</hi> I'le aſſure thee, thou haſt a true Nar<g ref="char:EOLunhyphen"/>rative of the <hi>Quakers</hi> Proceedings againſt me, which have been ſo irr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gular, boistrous and uncivil, that I never knew the like all my days, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could not have believ'd it, unleſs I my ſelf had experienced it, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> withal think, that never any one was more troubled with them as m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelf, during the time, and conſidering all other circumstances.</p>
+            <p>I do further declare, that the malice of theſe Men is ſo much again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> me, (for I know not what,) that I fear to go any where by my ſelf, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have ſo dogg'd me, and follow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d me into all Places, and I am but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> young Man, newly Arriv'd to the one and twentieth year of my Age and what ſhould be the reaſon of their ſo aſſaulting me as they do, tru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I know not; I never medled with their opinions, <hi>i.e.</hi> ſo as others hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> done, never uttered any invective ſpeeches againſt them, always till no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had very charitable thoughts, eſpecially of him that is now become <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> enemy, becauſe I Preach the Truth as it is in Jeſus, and will not co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>form to his ways.</p>
+            <p>I come now to the Doctrine of Imputation, being the thing in deba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> between the <hi>Quakers</hi> and my ſelf;<note n="*" place="margin">
+                  <hi>Mr.</hi> Pen <hi>cal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s it,</hi> A Doctrine of Devils. <hi>Bellarmine</hi> himſelf after many Diſpu<g ref="char:EOLhyphen"/>tations about Juſtification, doth yet con<g ref="char:EOLhyphen"/>clude, <hi>Tutiſ<g ref="char:EOLunhyphen"/>ſimum eſt, fi<g ref="char:EOLhyphen"/>duciam totam in ſola Dei miſericordia &amp; benignitate reponere.</hi> It is moſt ſafe to put all our confidence in the ſole mercy and power of God. <hi>De Ju<g ref="char:EOLhyphen"/>ſtificat. l. 5. c. 7.</hi>
+               </note> and that which by them as be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with all the ignominious Epithites and Appellations that th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> could give unto it, yet a doctrine ſo fundamental (that I would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for a world but that I did confide in, and upon it lay the whole ſtreſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my ſalvation; and would to God that <hi>Papiſt, Socinians</hi> and <hi>Quake<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> would come to this before it be too late, for how many have ſtrenuou<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> argued againſt the aforeſaid doctrine, that in the approach of de<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> have chang'd their opinion about it. Now denying or gain-ſaying <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this being an errour of pernicious conſequence, I ſhall here conſider <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> according to my poor abilities.</p>
+            <p>This Doctrine of Imputation, (as I humbly conceive) includes a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſignifies two things, <hi>1.</hi> Our ſins reckoned Chriſts. <hi>2.</hi> Chriſts Rig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>teouſneſs reckoned ours. That which I ſhall principally manage is the former, <hi>viz.</hi> Our ſins reckoned Chriſts; And that I may briefly and clearly ſpeak to this, (becauſe 'tis for the unknowing in this Point, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I deſign this Diſoourſe,) take me as followeth, and I hope 'tis a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cording to Scripture, and the Sentiments of the Pious in all Ages.</p>
+            <p>That our Lord Jeſus did undergo puniſhment, we have a full rel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <pb facs="tcp:40635:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thereof in the Hiſtory of his Life and Death; all that I ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Defence of this great Truth is this, Either Chriſt died <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly or unjuſtly; I mean, God the Father in puniſhing his Son, Act<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> therein either juſtly or unjuſtly; unjuſtly who dares to aſſert, juſtly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o dares to deny; and if God inflicted puniſhment on his Son juſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then of neceſſity his Sonmuſt be a peccant Perſon one way or other, <hi>i.e.</hi> ſinner; If he was a ſinner, it muſt be either inherently or impu<g ref="char:EOLhyphen"/>tively; inherently he was not, imputatively he was, or elſe he could it have undergone puniſhment. Christ was accounted a ſinner by ticked men, but this is not all, he was accounted alſo a ſinner by his Fa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, or elſe his Father would not have dealt ſo ſeverely with him as he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id; why did ſuch a Father deal with ſuch a Son? what was the cauſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at a Perſon ſo innocent ſhould ſuffer as he did? Secondly, 'twas <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (not his, but ours) had it not been for this, God had never ſent his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n in Fleſh, and then have puniſhed him in that Fleſh; as he did. Chriſt might thank Sin for all his ſufferings, and lay all the evils which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſuſtained in ſoul and body at its doors: Sin ſet his Father againſt him, Sin laid the Foundation of all his ſorrows, Sin brew'd that bitter <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>up which he was to drink, Sin was the meritorious cauſe of all the ſiſeries that befel him, <hi>1 Pet. 3.18. For Chriſt alſo hath once effered for ſins;</hi> ſo that Chriſt died, not only for an example, but for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, and that either for his own or for others; not for his own, I ſay gain and again, which maintains the Purity of our Saviour, but for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers, which doth not impeach his Purity; Chriſt was a Sinner by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uputation and reputation, the latter of which the <hi>Quakers</hi> will grant, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the former they deny, both of which Divines do aſſert, <hi>viz. Chriſt the greateſt Sinner in the World by Imputation and Reputation, and yet ſtill not a Sinner at all inherently or actually;</hi> ſo that if it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere not malice and envy in men, what need they miſrepreſent any one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the World for holding Christ to be a Sinner, whenas they have what they ſeem to deſire to have, <hi>viz. That Chriſt was not a Sinner in he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ently or actually;</hi> Can any more be ſpoken in the defence of <hi>Holy Je<g ref="char:EOLhyphen"/>us</hi> then this; If I, or I dare ſay any of my Reverend Fathers and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rethren do affirm holy Chriſt to be a Sinner, it is then according <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he import of thoſe Phraſes in Seripture, <hi>Iſa. 53.6. And the Lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath laid on him the Iniquity of us all.</hi> Now in ſin there is <hi>ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> and the <hi>reatus,</hi> the ſtain (or the filth) and the guilt of it;<note place="margin">Or iniquity.</note> or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns: There is in ſin the fact, the fault and the guilt: the two for<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur are ſolely ours, but the third and laſt Christ was pleaſed to take upon himſelf: What is guilt but obligation unto puniſhment? if the
+<pb facs="tcp:40635:5"/>Holy Jeſus will freely put himſelf under that Obligation,<note place="margin">Sufcipiende <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enam, &amp; non ſuſcipiende culpam, &amp; cul<g ref="char:EOLhyphen"/>pam delevit &amp; paenam. <hi>Aug. de Serm. Dom. in Luc. Serm. 37.</hi>
+               </note> what can <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid againſt it? certainly that he might do, and yet (in himſelf) be as holy and innocent as ever he was, and neither he the Committer of ſin, nor in the leaſt defiled by it, (for the <hi>macula</hi> and the <hi>reatus</hi> are two different things) Chriſts ſufferings we all grant are Penall; but how could they have been ſo without guilt; Guilt therefore he had not contracted but aſſumed; Puniſhment neceſſary preſuppoſeth guilt, he firſt took the guilt upon him, and then the puniſhment.</p>
+            <p>
+               <hi>2</hi> Cor. <hi>5.21. He hath made himſelf to be ſin for us.</hi>
+            </p>
+            <p>'Tis well known, thoſe words, <hi>He hath made him to be fin,</hi> ſounds more harſh, then if it had been ſaid, He hath made him to be a finner; There may be good in a ſinner, for good and bad are ſinners; but there can be no good in ſin, ſin is evil it ſelf in the abſtract, and therefore can admit of no good at all; Sin is the quality, Sinner the ſubject, both are bad enough, but of the two, the quality inherent is the worſe; ſo that there is more in theſe words, <hi>He hath made him to be ſin,</hi> then we are aware of. By ſin here (I know) many underſtand a Sacrifice for ſin, as the word <hi>Sin</hi> ſomtimes is taken, which I acknowledge to be a godly ſenſe, yet that's not all; it notes alſo his voluntary ſuſception of the ſinners guilt. Thus Doctor <hi>Jacomb</hi> on the Place. I ſhall further adde,</p>
+            <p>Methinks the Holy Ghoſt, chooſing to term Chriſt rather Sin then Sinner, ſeems hereby to reſpect the magnitude and multitude of ſins that were upon our Saviour, which the word Sinner could not ſo well comprehend as the word Sin.</p>
+            <p>
+               <hi>1 Pet. 2.29. Who his own ſelf bear our ſins in his own body on the Tree.</hi>
+            </p>
+            <p>The puniſhment of them did he bear,<note place="margin">He hath made him to be ſin, <hi>i.e.</hi> He hath made him to be a ſinner, ſaya <hi>Down<g ref="char:EOLhyphen"/>ham</hi> upon the place. He hath made him to be ſin, <hi>i.e.</hi> (ſaith <hi>Trap</hi> upon the place. a Sin-offer<g ref="char:EOLhyphen"/>ing, or an ex<g ref="char:EOLhyphen"/>ceecing ſin. ner.</note> ſurely the guilt alſo, or elſe I un<g ref="char:EOLhyphen"/>derſtand not how he ſhould bear the puniſhment of them. Again, I know not any <hi>Medium</hi> more apt whereby to evince this truth, then conſider<g ref="char:EOLhyphen"/>ing two things in this grand Sacrifice our Lord Jeſus, <hi>1.</hi> The meri<g ref="char:EOLhyphen"/>torious cauſe of his being a Sacrifice, <hi>viz.</hi> Sin, not his own, but his Peoples, This we have already touch'd upon. The other is the Sur<g ref="char:EOLhyphen"/>rogation and Vicegerency of Chriſt, our grand Sacrifice, <hi>i.e.</hi> He was a Sacrifice on our behalf; Chriſt ſubstituttd himſelf in the Sinners room, took our guilt upon him, and put himſelf in our place, died not only for our good, but in our ſtead, did undergo what we ſhould have under<g ref="char:EOLhyphen"/>gone, vouch ſafed to die that we might not die.</p>
+            <p>Now the <hi>Socinians</hi> and <hi>Quakers</hi> cannot endure to hear this. Oh how do they rally all their force, unite all their ſtrength, ſet themſelves
+<pb facs="tcp:40635:5"/>with their might, to oppoſe and beat down this great truth. To deny is ſuffering in our ſtead, is to looſe the Corner-ſtone of our Ju<g ref="char:EOLhyphen"/>ntion, ſaith Mr. <hi>Flavel Serm. Gal. 3.13. Yea, they which do <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y it,</hi> ſaith Dr. <hi>Jacomb, are pernicious Goſpel-deſtroyers.</hi> As ſuffering, dying, ſatisfying in our ſtead, room or place, is e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d by all as the ſum of Goſpel-Revelation, the great Article of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stian faith, the main prop and foundation of a believers hope. And <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll obſerved by our Divines, who aſſert the Vicegerency and Sub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion of Chriſt in his ſufferings; that all thoſe <hi>Greek</hi> Particles <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h we tranſlate <hi>[for]</hi> when applied to the ſufferings of Chriſt, do the meritorious, deſerving, procuring cauſe of his ſuffering. Thus <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.12. He offered one ſacrifice <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, for ſins, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.3.18. Chriſt once ſuffered <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, for ſins, Rom. <hi>4.25. He delivered</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, for offences,</hi> Matth. <hi>20.28.</hi> He gave his life a ſome <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for many. Chriſt ſuffered for us, <hi>i.e.</hi> in the ſtead, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and place of us. So that it is evident, as Chriſt ſuffered in our <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, took the guilt of our ſins upon him, he was the greateſt of ſinners, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>articular ſinner having only his own ſins to anſwer for: but Jeſus <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt, (though he had no ſin of his own) yet he had all the ſins of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t laid upon him, and ſo he has more to anſwer for then any parti<g ref="char:EOLhyphen"/>er ſinner; and therefore in that ſenſe is the greateſt of ſinners, be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s Scripture alloweth, <hi>viz.</hi> thoſe three, <hi>Iſa. 53.6. 2</hi> Cor. <hi>5.21. 1 Pet. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</hi>
+            </p>
+            <p>Samething of this truth may be ſhadowed forth by this Plain <hi>Simile. ſohn Vaughton</hi> ſhould engage himſelf for the greateſt part of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tors in the World, and is accepted for their Surety, may not he the juſtly reputed the greateſt Debtor, becauſe he aſſumeth their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts unto him, though he never contracted them. I ſhall leave my <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der to apply it, becauſe I will not be tedious,<note place="margin">Teſtimonies of the Fathers, that Chriſt was made a ſinner for us.</note> I ſhall only hereunto <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e what Divines ancient and moaern have ſaid about this ſame <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g.<note n="(n)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Chryſoſtom, Him that knew no ſin, ſaith the Apoſtle; Him was Righteou ſneſs it ſelf, he made ſin, that is, he ſuffered him to indemn'd as a ſinner, and to die as one accurſed. The like have <hi>Oecumenius,</hi> His Son being Righteouſneſs and Holineſs; He made that is, he ſuffered him to be crucified as a ſinner, and as a guilty ſon: ſo likewiſe on <hi>Heb. 9.</hi> ult. He further ſaith.</p>
+            <q>Chriſt was very much a ſinner, as having taken upon him the ſins of the whole world, and made them his own.</q>
+            <p>
+               <pb facs="tcp:40635:6"/>Biſhop <hi>Downham</hi> quotes <hi>Thophilact</hi> and <hi>Theodoret</hi> for the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> purpoſe. <hi>Auguſtin</hi> Interpreting thoſe words of <hi>Pſa.</hi> 22. <hi>v.</hi> 1. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cording to the Tranſlation of the Septuagint and the Vulgar L<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>Verba Delictorum meorum: quia noſtra peccata ſua reputat.</hi>
+            </p>
+            <p>He ſaith the words of my ſins, becauſe our ſins he reputed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his own; and again on thoſe words <hi>Pſa.</hi> 38.7. Becauſe of min<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>iquity, for as he w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s made ſubject to the worſe, that he m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> deliver us from the curſe of the Law; ſo he profeſſed him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſinner, who bore our ſins, and on theſe words, <hi>(Cogitabo pro pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meo)</hi> Chriſts ſins are the ſins of Mankind. <hi>Peccata Chriſti, hu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> delicta ſunt generis.</hi>
+            </p>
+            <p>
+               <hi>Thus you ſee how many favours theſe words, (Jeſus Chriſt a ſi<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> or the greateſt of ſinners) in that ſence that I mean. Some ſay ac<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing to Scripture that he was made ſin, that our iniquities were laid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him, that he was an exceeding great ſinner, that his ſins were the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all Mankind. That there was a voluntary ſuſception of our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> That holy Jeſus ſuffered in our room, which is the ſence <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> import of my Poſition. See it further confirm'd by Later <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vines.</hi>
+            </p>
+            <p>
+               <hi>Theſe words,</hi>
+               <note place="margin">
+                  <hi>Luther</hi> on <hi>Gal. pag.</hi> 136. Chriſt took upon him the Perſon of a Tranſgreſſor, and therefore muſt be hang'd. <hi>Trea<g ref="char:EOLhyphen"/>tiſe of Juſtif. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 5. <hi>c.</hi> 1. <hi>ſect.</hi> 7.</note> 
+               <hi>(Jeſus Chriſt was the greateſt ſinner in the World) well known I came from <hi>Luther,</hi> that famous Reformer of the Ch<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> and ſince him others have made uſe of it, as I will inſtance in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> few.</hi>
+            </p>
+            <p>
+               <hi>That famous Goſpel-Preacher Mr.</hi> Jeremiah Burroughs, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Book. Entituled,</hi> (Chriſts Invitation of Sinners to Reſt,) <hi>ſay <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſame, quoting</hi> Luther <hi>for it. That Orthodox Biſhop</hi> Downham<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>the ſame, quoting many for it alſo.</hi>
+            </p>
+            <p>
+               <hi>Doctor</hi> Roberts <hi>on his elaborate Treatiſe about</hi> the Covenan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, <hi>hath the ſame expreſſion</hi> page 1609. <hi>Mr.</hi> Flavel <hi>in his Entituled</hi> Fountain of Life, 74. <hi>Hath theſe words.</hi>
+            </p>
+            <p>He could not have ſuffered or dyed by the Fathers Hands, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not been a ſinner by imputation, and in that reſpect as (<hi>L<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> ſpeaks) he was the greateſt of ſinners.</p>
+            <p>Doctor <hi>Jacomb</hi> upon the Romans tels us alſo,<note place="margin">The Church<g ref="char:EOLhyphen"/>es Riches by Chriſts Po<g ref="char:EOLhyphen"/>verty. <hi>pag.</hi> 12.</note> that Chriſt too<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> guilt of our ſins upon him, and then bore the puniſhment, <hi>p.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Doctor <hi>Sibs alſo hath words to the ſame eſſect.</hi> He (Chriſt) too<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on him guilt as far as guilt is an Obligation to puniſhment.</p>
+            <p>
+               <pb facs="tcp:40635:6"/>
+               <hi>Anthony Burgeſs has alſo theſe words,</hi>
+               <note place="margin">Treat. of Juſtis</note> For he (Chriſt) could <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a Sacrifice for ſin, or be a Surety to expiate it, if it were not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on him, and he reputed of us ſo in his ſufferings, though in of holy and unſpotted: ſo that as it is with us, though we the imputation of Chriſts Righteouſneſs, yet inherently we ſilth, and the remainders of corruption; ſo though our ſins imputed unto Chriſt, yet inwardly and inherently he was ab<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tly holy and innocent. <hi>Diodate</hi> upon 2 <hi>Cor.</hi> 5.21.<note place="margin">His Annot.</note> hath the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere are many more that I might here inſert, were I furniſhed with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, but theſe I ſuppoſe may ſuffice.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at other Point touching</hi> the Imputation of Chriſts Righteouſneſs to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hath alſo been ever owned in the Church, and he that denies it muſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>quently overturn the Law, the Goſpel, and the Satisfaction of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt; but this I am not call'd as yet to vindicate, and therefore do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my Reader to thoſe men that have treated largely of it in their ſuiſes of Juſtification.</hi>
+            </p>
+            <closer>
+               <salute>READER,</salute>
+               <signed>Thine to ſerve thee, <hi>THO. POWELL.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40635:7"/>
+            <pb n="1" facs="tcp:40635:7"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r. POWELS Paper, put forth in defence of himſelf, upon the <hi>Quakers</hi> firſt Aſperſing of him with Blaſphe<g ref="char:EOLhyphen"/>my, is here Inſerted, that every <hi>Judi<g ref="char:EOLhyphen"/>cious Reader</hi> may judge whether it needed any Anſwer, but only that the <hi>Quakers</hi> had a Mind to have the laſt word: though it was a Lie.</head>
+            <head type="sub">A Word to the Wiſe is enough. OR, Whether this Poſition, <hi>Jeſus Chriſt was the greateſt Sin<g ref="char:EOLhyphen"/>ner in the World,</hi> as is in this Paper held forth, be Blaſ<g ref="char:EOLhyphen"/>phemy.</head>
+            <p>JESUS CHRIST <hi>was no Sinner actually,</hi> i. e. <hi>He committed no Sin; He was neither guilty of Original Sin, Blemiſh, nor actual Blot, but was Holy, Harmleſs and <g ref="char:V">Ʋ</g>ndefiled, ſeparate from ſinners, Heb.</hi> 7.26. 1 Pet. 1.19. <hi>Yet as he ſuffered in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Room, took the guilt of our ſins upon him; He was the greatest <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſinners; One particular ſinner having only his own ſins to Anſwer
+<pb n="2" facs="tcp:40635:8"/>for: but Jeſus Chriſt, (though he had no ſins of his own,) yet he h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all the ſins of all the Elect laid upon him, and ſo he had more to Anſw<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for then any particular ſinner; And therefore in that ſenſe is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> greateſt of ſinners, being as Scripture alloweth,</hi> Iſa. 53.6. 2 Cor. 5.2<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 1 Pet. 2.24.</p>
+            <p>
+               <hi>Whereas</hi> John Vaughton <hi>and ſome other</hi> Quakers <hi>have caſt ſuch k<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of Papers up and down in City and Countrey, with a deſign to aſpe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Thomas Powell <hi>Preacher of the Goſpel; the ſaid</hi> Thomas Power <hi>thought it convenient to give the World this ſasisfaction, that thou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe words above-mentioned,</hi> Jeſus Chriſt was the greateſt Sinner <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the World, <hi>were given under his hand to</hi> John Vaughton Quaker; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that was his ſenſe, and is his ſenſe ſtill, ſcil. by Imputation, and was <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> peated by him ſeveral times, even before and after he had written th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> words, is Witneſſed by</hi> Thomas Bye <hi>an Apprentice ſeven years to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſaid</hi> John Vaughton, <hi>and who was then preſent when this Diſcourſe w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> agitated between</hi> John Vaughton <hi>and</hi> Thomas Powell, <hi>which takes <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the calumny thrown upon</hi> Thomas Powell <hi>by the</hi> Quakers, <hi>and they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſtians ſtill made good.</hi>
+            </p>
+            <p>What Mr. <hi>Thomas Powell</hi> Preacher of the Goſpel h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſaid in his own Defence, I Atteſt to be Verity.</p>
+            <p>
+               <hi>THOMAS BYE.</hi>
+            </p>
+            <p>Thus, Reader, I have given thee my ſenſe upon my own word which priviledge every man hath, and my words in their explained ſenſe conſidered, are I am ſure ſo found and Orthodox that none but the bold <hi>Socinias</hi> and the ſilly <hi>Quaker</hi> would gainſay it.</p>
+            <p>But ſeeing that my Adverſary has cavill'd with this ſame Pap<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of mine, in his pretended Anſwer thereunto, I ſhall conſider in the firſt place that, and then his whole Book, which he ſtiles, <hi>A Vindi<g ref="char:EOLhyphen"/>cation of Jeſus Chriſt.</hi>
+            </p>
+            <p>Firſt, I begin with his pretended Anſwer which you will find <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>page</hi> 7. ſtuff'd with notorious Lies. He tells the World that I have abuſed my Witneſs. Wherein I pray?</p>
+            <p>
+               <hi>New</hi> Thomas Bye <hi>hath ſince this Paper was Publiſhed,</hi>
+               <note place="margin">
+                  <hi>John Vaugh<g ref="char:EOLhyphen"/>ons</hi> Lies no<g ref="char:EOLhyphen"/>torious.</note> 
+               <hi>declared <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Preſence of ſeveral Perſons, that</hi> T.P. <hi>did not ſpeak nor mention the word</hi> Imputation, <hi>before he writ thoſe words, ſo that the VVorld m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſee that he hath abusd his VVitneſs.</hi>
+            </p>
+            <p>Lye 1. <hi>Note Reader, If</hi> John Vaughton <hi>had been a Chriſtian, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would have done like a Chriſtian, i.e. done me right, by acquainting
+<pb n="3" facs="tcp:40635:8"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> world, that though</hi> Tho. Bye <hi>denied the word</hi> Imputation, <hi>as taken by me before, yet he denied not but that it was ſpoken by me juſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>r it was written, nay, he believes a hundred times before ever we <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ed from one another. Again, I can produce the Original that I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve under</hi> Thomas Bye <hi>his hand, which is as I have inſerted in my <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>er,</hi> ſcil. <hi>That the word</hi> Imputation <hi>was repeated even before and <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>; but ſince my VVitneſs has called to minde, that he cannot remem<g ref="char:EOLhyphen"/>ber that I had the word</hi> Imputation <hi>before, yet he doth not ſay Poſitive<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that I had not; whereas</hi> John Vaughton <hi>relates thus,</hi>
+            </p>
+            <p>Now <hi>Tho. Bye</hi> hath ſince this Paper was Publiſhed, declar'd in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſence of ſeveral Perſons, <hi>That T. P. did not ſpeak nor mention the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d</hi> Imputation <hi>before.</hi> So that you may ſee what a flagitious Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>or this Quaker is; but ſee further of his Impiety.</p>
+            <p>Laſtly, <hi>Thomas Bye</hi> my Witneſs to clear me from this cruel Aſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſion, <hi>viz.</hi> A Lie, (which <hi>I</hi> would not be guilty of for a world) <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th here ſet his hand, that though (ſince he has conſidered) he can<g ref="char:EOLhyphen"/>not remember <hi>I</hi> had the word <hi>Imputation</hi> before, yet <hi>I</hi> had his hand <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ely and voluntarily from him, to what I have ſaid in my own de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce.</p>
+            <p>The Refult of all touching the abuſing of my Witneſs, you ſee, friendly Reader, i, a Lie of <hi>John Vaughtons</hi> own hatching, and yet <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ow fain would this confident Quaker have faſtned it upon me; but ſhall forbear my corroſives for his lying, till <hi>I</hi> have particulariz'd <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m all.</p>
+            <p>Lye 2. John Vaughtons <hi>other Lie is in</hi> p. 9. <hi>wherein he maketh uſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Mr.</hi> Faringtons <hi>name, telling hie Reader, that he ſaid I was a Liar, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> deny'd alſo. Mr.</hi> Farington <hi>acknowledgeth that I was mi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> taken, in that I ſaid the word</hi> Imputation <hi>was in, and was not, for ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> underſtood me, and ſo he told my Adverſary: but that he ſaid I was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Liar, and had told many Lies about it, he denieth, and further ſaith, that if he knew me to be a Liar, he would not have told ſuch as the</hi> Quakers, <hi>who think no pains too much to ſcrape in the Kennels and Dunghills of mine and his Brethrens infirmities, to have dirt to caſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on us.</hi>
+            </p>
+            <p>Lye 3. John Vaughtons <hi>next Lie, is his charging Mr.</hi> Farington <hi>with a Lie, for ſo it is in effect, in that he chargeth Mr.</hi> Farington <hi>with beach of Promiſe, whoſe Fidelity in Point of Promiſc, I ſhall make ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>feſt, by tranſcribing my Adverſaries own words. And that he ſhould at Preach in his Meeting-Houſe till he had Publickly condemn'd it.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:40635:9"/>But Now <hi>John Vaughton,</hi> thou knoweſt, and beſides thee, an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſembly of people, that I condemn'd them in a Sermon, and no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this time Theſe Words <hi>(Jeſus was the greateſt Sinner in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> World)</hi> as thou in thy ignorance took it, viz. <hi>That he was a S i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Actually.</hi> I pleaded as much for the Innocency of my dear<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> viour, as thou pretendeſt to do. My Text was at that time, 2 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 5.21. Which fitted the ſence and ſcope of my Poſition. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>knew no ſin.</hi> i.e. Experimentally, he felt no ſin in his own he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he acted no ſin in his Life.<note place="margin">Chamiecus, Bcza, By field &amp; Grotius in looc.</note> But otherwiſe he knew fully wha<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> was, he knew well the effects of it, Say all Expoſitors upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> place. He was made ſin for us, as he was made a Sacrifice for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the Sin-Offerings in the Old Teſtament were called ſin. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>was made ſin.</hi> i<g ref="char:punc">▪</g> e. By Imputation, &amp;c. Sins were charged u<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> him. This, and ſuch like was the whole matter of my Ser<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Preached at Mr. <hi>Faringtons</hi> Meeting-houſe, and elſewhere, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſatisfied both him and others, but if I had meant no otherwiſe by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Poſition then what thou wouldſt fain ſuggeſt to the poor people <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do aſſure thee thou wouldſt have found Mr. <hi>Farington</hi> as good as word that way as well as this.</p>
+            <p>Lye 4.<note place="margin">When I ſay, <hi>the Quakers are no Chri<g ref="char:EOLhyphen"/>ſtians,</hi> I mean their principal Leaders, not all their fol<g ref="char:EOLhyphen"/>lowers, for I believe there are many poor ſouls, who if they knew the Qua<g ref="char:EOLhyphen"/>kers principle, would abo<g ref="char:EOLhyphen"/>minate them.</note> 
+               <hi>Another Lie, that I charge</hi> John Vaughton <hi>with is, in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he denieth the</hi> Quakers <hi>to be no Chriſtians, thing that has been pro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and ſhall ſtill be prov'd when they pleaſe. To Illuſtrate this, is bu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> lighting a Candle at noon day, &amp;c. For has not the late Ingen<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Mr. Hicks, <hi>undertaking to prove them hererodox, both in princi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and practice, and they are dumb, being conſious to themſelves that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are no Chriſtians.</hi>
+            </p>
+            <p>Lye 5. <hi>The fifth Lye he is his denying that to be their principle wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they have ſo often Declar'd,</hi> viz <hi>Chriſt dying only as an Example, ind<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> they dotalk of Redemption, but this Redemption is of the Seed, wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Seed is Chriſt, ſo that Chriſt came to Redeem himſelf, of which you m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> read with ſatisfaction in Mr.</hi> Hicks <hi>Dialogues.</hi>
+            </p>
+            <p>Thus thou feeſt, my Friendly Reader, what a Brow of Braſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Adverſary has in laying his Brat at in Door, and yet it ſeems <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Adverſary, (as I have of late underſtood) is accounted a great Pro<g ref="char:EOLhyphen"/>phet amengſt the <hi>Quakers,</hi> but I am ſure he is a lying one, as m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be prov'd by the Catalogue of his Lies here inſerted, and by an<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="5" facs="tcp:40635:9"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſtance, which I ſhall here acquaint <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ader with, and I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it will make him ſmile.</p>
+            <p>The ſame <hi>Quaker, John Vaughton</hi> by name pretendeth (upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> having thoſe words above-mentioned und<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> my Hand) to be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>'d of God to reprove, or (as he phraſeth<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>) bear Teſtimony a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſt me in the Countrey as well as in the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cy; it happened that <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n he came into the Countrey, which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s above twenty miles <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, I was then at <hi>London,</hi> and he came t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e place where I Preach, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then there was neither Preacher nor people, I being there but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Fortnight. Surely, this man <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no more to Reve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, if he doth who will believe him, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that he hath been the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>wils fool hitherto, and by the Father of Lies was ſent upon a ſhev<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Errand.</p>
+            <p>Now thou falſe Prophet who haſt cenſured me, what ſhall I ſay <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have prov'd thee guilty of ſuch wilful ſtudied Lies; Thou <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> call'd me a Liar, but I have prov'd thee one; And therefore in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Name of my great Lord and Maſter, <hi>I do Pronounee thee Ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſed;</hi> and that if thou repenteſt not, <hi>Thou ſhalt be damned.</hi>
+            </p>
+            <p>I come now to my Adverſaries Book,<note place="margin">John Vaugh<g ref="char:EOLhyphen"/>tons <hi>Pam<g ref="char:EOLhyphen"/>phlet fictitions.</hi>
+               </note> as it declares his ability <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>hing the Defence of ſeveral Tenets among the <hi>Quakers.</hi> I have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in general to ſay of it, abſtracting what is there written from <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tologies, vain Repetitions and other Impertinencies; the mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of it may be contain'd in a Nut-ſhell; but ſeeing that I have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pen to Paper, I'le anſwer it more particularly. I ſhall firſt con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er the Title of his Book, which is this, <hi>A Vindication of Jeſus <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>riſt the Immaculate Lamb of God.</hi>
+            </p>
+            <p>I admire the confidence of this Man, how he dares to ſtile his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ok A Vindication of Jeſus Chriſt. If he had not been a Quaker <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were ſomthing, but foraſmuch as thou art a Quaker, and talkeſt of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dicating Holy Jeſus, Lay thy Mouth in the duſt for how dareſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Vindicate that which thou doſt not hold. A Vindication of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>riſt, I cant't believe it; thy title is only a colour, a pretence, a <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t, whereby thou mayſt allure ſouls to ſwallow down thy poi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> errours; but notwithſtanding this, my Adverſary perhaps <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y reply, He and all his Friends own Chriſt; I anſwer,<note place="margin">Friends, i.e. Quakers.</note> ſo thou <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thy Friends will ſay of every Principle in the Chriſtian Religion; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own this, and you own that; and by this Engine it is, that the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vil makes uſe of you to prevail upon poor ſouls, whenas Perſons <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at are able do by a diligent ſcrutiny finde out your lies, abſurd <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nings, fallacies and ſpecious pretences.</p>
+            <p>
+               <pb n="6" facs="tcp:40635:10"/>Reader, Give me leave to tell thee this, The Quakers owning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt, or any other principle of the Chriſtian Religion, is no ot<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a meer myſtical Romance. They acknowledge ſuch a Ch<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> as un-Chriſts Chriſt. They deny him to be God and Man in<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Perſon. They deny Chriſt to be a diſtinct Perſon from the Perſon of the Father, and they deny him alſo to be a diſtinct Perſon f<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> any of his Members; For proof whereof ſee what I have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Quoted out of their own Books.</p>
+            <p>
+               <hi>Gods Chriſt is not diſtinct from the Saints;</hi>
+               <note place="margin">Gee. Fox <hi>great Myſtery. p.</hi> 2.6. ſpoken in the preſence of Mr. <hi>Hicks</hi> and ſe<g ref="char:EOLhyphen"/>veral others. <hi>G. Whitehead Diph. p.</hi> 13. <hi>G. Fox. great Myſt.</hi> 206.</note> 
+               <hi>I know the beginning and date of thy Chriſt Jeſus Chriſt, a Perſon without us, is not Scri<g ref="char:EOLhyphen"/>pture-language, but the</hi> Anthropomorphites <hi>and</hi> Mugletonians. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>there be any other Chriſt but he that was crucified within, he is the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chriſt. And he that hath not this Chriſt that was riſen and cruci<g ref="char:EOLhyphen"/>fied within, is a Reprobate; Though Devils and Reprobates <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> make a talk of him without.</hi> It would have better become t<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>John,</hi> to have Entituled thy Book thus, <hi>No Christ but Conſcien<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> and in this thou wouldſt have been true to thy principle, for w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> know, that that Chriſt which thou in thy Book vindicateſt, is C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſcience, Light within, not Jeſus Chriſt God man without us. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no marvel why the Quakers can't underſtand how Jeſus Ch<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ſhould be a ſinner by Imputation, how Jeſus Chriſt ſhould be b<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of a Virgin, be made a curſe for us, when they ſtill by Chriſt un<g ref="char:EOLhyphen"/>derſtand Conſcience.</p>
+            <p>The next thing which I would take notice of in my Adverſa<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Book,<note place="margin">Reader, if thou believeſt that this Diſ<g ref="char:EOLhyphen"/>courſe, paſſed between <hi>John Vaughton</hi> and I. th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> muſt value his me<g ref="char:EOLhyphen"/>mory then at a high rate, but I am apt to think, his memory is as fallible as yours and mine, though he had the conſidence to tell me that he was perfect.</note> is a Diſcourſe that he ſaith paſt between him and I, whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> avouch to be ſeigned, ſave a paſſage or two.</p>
+            <p>He relates this as our Greeting one another, <hi>viz. You Quakers hold damnable and erroneous doctrines.</hi>
+            </p>
+            <p>This is true we all know: but that I ſaluted him thus, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch kind of words by way of greeting, is another of his Lies. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he knows we friendly ſaluted one another: Reader, moſt of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Diſcourſe is fictitious, both in its dependence and in its matter, a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> might inſtance diverſly, but I ſhall only in this. He brings me <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeak as followeth.</p>
+            <p>T.P. <hi>There are none perfect who are not free from temptations.</hi>
+            </p>
+            <p>J.V. <hi>Chriſt Jeſus was tempted, was not he perfect?</hi>
+            </p>
+            <p>T.P. <hi>He was the greateſt ſinner in the world.</hi>
+            </p>
+            <p>J.V. <hi>Who was the greateſt ſinner in the world?</hi>
+            </p>
+            <p>T.P. <hi>Chriſt Jeſus was the greateſt ſinner in the world.</hi>
+            </p>
+            <p>None, he maketh my ſaving theſe words, <hi>viz. Jeſus Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:40635:10"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> greateſt ſinner in the World;</hi> to follow upon his ſaying, <hi>Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was tempted, was he not perfect?</hi> whereas he knoweth, (if he <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ld but appeal to Conſcience, <hi>The light within</hi>) that he wrong<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> me much, becauſe the occaſion of theſe words dropping from me <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a diſcourſe between him and I, touching the Imputation of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>riſts Righteouſneſs to us and our ſins to Chriſt.<note place="margin">To do that which hath bin ſufficiently don already, I forbear, therefore ſhall not diſ<g ref="char:EOLhyphen"/>courſe here largly about Scripture and Revelation which offers it ſelf ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely to me, being that which was between my Adverſary and I. The Quakers do<g ref="char:EOLhyphen"/>ctrines have been diſcover'd and confuted by thoſe who know them better then I. viz. Mr. <hi>Hicks,</hi> Mr. <hi>Faldo,</hi> Mr. <hi>Raworth.</hi> I only anſwer, him as to ſome of his own lies, that he fathers upon me.</note>
+            </p>
+            <p>Another thing that I ſhall take notice of in his fictitious Diſcourſ, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is bringing me to ſpeak again as followeth.</p>
+            <p>T.P. <hi>What do you own Revelations in theſe days?</hi>
+            </p>
+            <p>J.V. <hi>Yes, we do own Revelations in theſe days.</hi>
+            </p>
+            <p>T.P. <hi>Then burn the Bible, &amp;c.</hi>
+            </p>
+            <p>This, Reader, is alſo another of his Lies, and Mr. <hi>Bye</hi> my witneſs <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th alſo Atteſt, That as far as he remembers I ſaid no ſuch word, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Away with the Bible,</hi> which was the words <hi>I</hi> ſpoke <hi>I</hi> very well <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>member, implying thus much, if Revelation, were ſo ordinary and <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>non as he talk'd of; there was no need then of the written <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rd. Caſt thy eye, my Reader, upon the Margin and then about <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ipture light and Revelation-light, take my Advice as followeth. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that moſt famous Book of that Worthy Divine Mr. <hi>William <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dge</hi> of <hi>Yarmouth,</hi> entituled, <hi>Scripture-light the moſt ſure Light, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pared with</hi> 1. <hi>Revelations and Viſions.</hi> 2. <hi>Natural and ſuperna<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>al dreams:</hi> 3. <hi>Impreſſions with and without Word.</hi> 4. <hi>Light and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> within.</hi> 5. <hi>Divine Providence.</hi> 6. <hi>Chriſtian experience.</hi> 7. <hi>Hu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Reaſon.</hi> 8. <hi>Judicial Aſtrology.</hi>
+            </p>
+            <p>Its a Book worth its weight in Gold. I would not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any Chriſtian to be without it, for I know it will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their eſteem of the Scripture, and ſo long as People do but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Scripture that veneration it deſerves, they ſhall never turn <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>akers, or be overturn'd with any errour. The laſt thing that <hi>I</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> take notice of in my Adverſaries Pamphlet is as followeth.</p>
+            <p>Then a young Man of <hi>T.P.</hi> his Hearers ask'd this Queſtion, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Seeing you are but a People of about twenty five years ſtanding, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſay that your way is the right way, what became of the People that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> before you were a People?</hi>
+            </p>
+            <p>
+               <hi>Thomas Powel</hi> takes upon him to anſwer it in the name of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>akers thus, <hi>They</hi> (ſaid he) <hi>believe they are all damn'd.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:40635:11"/>This he imputes to my mallice and envy, if he had imputed to my Judgment, he would not have been miſtaken. I do here gain avouch that one of the <hi>Quakers</hi> principles is, that all exc. themſelves ſhould be confounded and damn'd, which principle theirs I learn from an undeniable conſequence that reſulteth fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeveral Phraſes ſcattered up and down in their own Books, as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their way is the onely way, which if it be, then this Conſequential follows, all that approve not what they do are damn'd.<note n="(a)" place="margin">Other hereti<g ref="char:EOLhyphen"/>cal Books are bad enough, but the Quak<g ref="char:EOLhyphen"/>ers are the ve<g ref="char:EOLhyphen"/>ry fink and Common-ſhore of all, The quin<g ref="char:EOLhyphen"/>teſſence of all He eſie.</note> At <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time I have but one <hi>Quakers</hi> book in my Study, Entitul'd a <hi>Catech<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> for little children, put forth by <hi>G.F.</hi> A great Leader among <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Quakers,</hi> and in it I find this to my purpoſe, <hi>p.</hi> 13.</p>
+            <p>Queſt.</p>
+            <p>
+               <hi>Father, are</hi> Jews, <hi>and Gentiles, and Chriſtians, that do not beli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the light which doth Enlighten every man that cometh into World, all out of him who is the Light, the Life of men?</hi>
+            </p>
+            <p>Anſw.</p>
+            <p>
+               <hi>Yea, Child, ſaith the Father to it.</hi>
+            </p>
+            <p>Many more paſſages (were it not for waſting of good Pap<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> might I tranſcribe out of that helliſh Book, I beſeech you, who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parents, to get other kind of <hi>Catechiſm's</hi> for your children, for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> principles contain'd in <hi>G. F's Catechiſm,</hi> are principles that the De<g ref="char:EOLhyphen"/>vil of hell hath hatch'd, <hi>ergo,</hi> They are Soul-damning.</p>
+            <p>For a further confirmation of my aſſertion, I would deſire <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reader to ſee Mr. <hi>Faldo's Key,</hi> which will interpret many of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Quakers</hi> Words and Phraſes, as followeth.</p>
+            <p>
+               <hi>Publicans and ſinners,</hi> i. e. <hi>All that are not</hi> Quakers.</p>
+            <p>
+               <hi>The Royal Seed,</hi> i. e. <hi>Chriſt and every</hi> Quaker.</p>
+            <p>
+               <hi>Sons of God,</hi> i. e. <hi>The Quakers only.</hi>
+            </p>
+            <p>
+               <hi>The Synagogues of Satan,</hi> i. e. <hi>The Aſſemblies of any ſort of pe<g ref="char:EOLhyphen"/>ople for divine worſhip who are not</hi> Quakers. Cummultis aliis</p>
+            <p>For a perfect confirmation of my aſſertion, <hi>viz.</hi> That the <hi>Quaker</hi> do hold that all who dye not in belief of their principles ſhall damn'd. See in this enſuing Relation, which I ſhall ſtand by.</p>
+            <p>Once a Maiden Acquaintance of mine, was courted by a zealot
+<pb n="9" facs="tcp:40635:11"/>
+               <hi>Quaker,</hi> who during the time he was Suitor, had prevailed with her to go with him to hear his Friends. S <hi>i. Quakers,</hi> and that once or twice, at laſt he demandeth of her how ſhe lik'd them, ſhe anſwered worſe and worſe, which occaſion'd him to break off from her, and withal to ſay that if ſhe heard any other, ſhe would certainly be damn'd.</p>
+            <p>I know not any thing elſe in his fictitious diſcourſe, that requires anſwer. I have conſider'd every thing that I judgd Material, as to his opprobrious term<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſcatter'd in his Book, <hi>viz.</hi> Miniſter of the Power of Darkneſs, Enemy to God, &amp;c. I look upon as below my ſelf to take notice of, and if ſo be I am accounted a Blaſphemer by ſuch who are the greateſt Blaſphemers in the World, I ſhall rejoice, knowing that it is one Note and Character of falſe Prophets, to caſt dirt, filth and Reproach upon the true.</p>
+            <p>In the Poſtſcript of my Adverſaries book, I find him to be offend<g ref="char:EOLhyphen"/>ed at ſuch expreſſions in my prayer, as (I believe) will record his heterodoxy to peſterity, and ſpoile him I am ſure for a Goſpel Mi<g ref="char:EOLhyphen"/>niſter, notwithſtanding his crowing Divinity of late, our beſt duties are Fly blown with ſin, and beſt performances are Bed ridden. Theſe words (It ſeems) do ſtumble the Quakers much its no marvel, becauſe they hold perfection to be attainable, but let theſe imagina<g ref="char:EOLhyphen"/>ry Perfectoniſts, boaſt as they pleaſe, we know that ſuch who are Chriſtians underſtand theſe Phraſes well, unto whom they are ſo ac<g ref="char:EOLhyphen"/>ceptable that I need not enlarge any further. As to the other Expreſ<g ref="char:EOLhyphen"/>ſion,
+<q>We muſt have no dependency upon Chriſt within.</q>
+            </p>
+            <p>I ſay ſo ſtill, <hi>i. e.</hi> As the <hi>Quakers</hi> underſtand it, and do ſay that our hopes of Salvation muſt hang and depend upon what Chriſt God-man without hath done without us.</p>
+            <p>I do find alſo that my Adverſary has lin'd his book with many ex<g ref="char:EOLhyphen"/>cellent Texts of Scripture, unto which I ſhall only ſay this. A poi<g ref="char:EOLhyphen"/>fonous Pill is never a whit the leſs poiſonous, becauſe 'tis guilded o<g ref="char:EOLhyphen"/>ver with Gold; nor a Wolf is never a whit the leſs a Wolf, becauſe he hath put on a Sheep-skin; nor the Devil is never a whit the leſs a Devil, becauſe he ſomtimes appears like an Angel of Light. So neither is <hi>John Vaughtons</hi> Book, any whit the leſs an Erroneous book, becauſe of Scriptural Phraſes and Sentences.</p>
+            <p>I come now to the Concluſion of my Adverſarys Book, which you have in theſe words,
+<q>
+                  <pb n="10" facs="tcp:40635:12"/>Let Thomas Powel (and all others to whom theſe Lines may come) know, that our Owning and Preaching Chriſt within, a the holy A<g ref="char:EOLhyphen"/>poſtles did, doth not at all gainſay or oppoſ Christ as he was Manifeſt without in the dayes of his Fleſh; for we have a Dear and Honourable Eſteem unto our Lord and Saviour Jeſus Chriſt, in all his manifeſtati<g ref="char:EOLhyphen"/>ons, both within and without; and he who profeſſeth and talks of him only or wholly without, denying him any place within Man, is a De<g ref="char:EOLhyphen"/>ceiver and an Anti-Chriſt.</q>
+            </p>
+            <p>Unto which I anſwer briefly.</p>
+            <p>I confeſs the words as they lye in themſelves are good, but not<g ref="char:EOLhyphen"/>withſtanding this fairneſs, I ſmell a <hi>Quakers</hi> Rat in it and do avouch that what they ſay concerning Chriſt without, is a meer Equivoca<g ref="char:EOLhyphen"/>tion in ſhort, by Chriſt without they mean only this Chriſt in you without me. This my ingenious Reader is all they mean by Chriſt without, and ſhould they deny this, they muſt be fain then to deny what they have ſaid in other of their books. So by this you may ſee by what means the Quakers do entangle poor ſilly ſouls, <hi>viz.</hi> By a ſeeming approbation of every principle pertaining to the Chriſtian Religion</p>
+            <p>The Concluſion wherein is contained in brief, Seaſonable, Soul-Affectionate, and good advice unto the principal Leaders of the Quakers or any that are promoters of Fundamental errours.</p>
+            <p>Sirs,</p>
+            <p>
+               <hi>You are the moſt injurious of that becauſe by owning of errours you prejudice your ſelves, and by propagating of errours you prejudice o<g ref="char:EOLhyphen"/>thers. Oh the precious time, ſtrength and ſpirits that you ſpend in ad<g ref="char:EOLhyphen"/>vancing that which you ſhall be no gainers, but loſers by, you are the greatest Engineers that the Devil hath, for perſecution and hereſie has been the main Engins, whereby that Prince of Darkneſs hath endea<g ref="char:EOLhyphen"/>vor'd to undermine Religion. Perſecuters touch the body, but ſuch that are Fementem of hereſie touch the ſoul. Perſecution with</hi> Saul <hi>kills its thouſands, but hereſie with</hi> David <hi>its ten thouſands. Perſecu<g ref="char:EOLhyphen"/>tion is the arrow that flies by day, but Hereſie is the Peſtilence that rageth in the night. Perſecution is the Pruning-knife that loppeth off the Branches of Religion, but Hereſie is as the Axe which is laid to the Root of the Tree, Perſecution is the Dragon that drives the Woman into the Wilderneſs, but Hereſie is the B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ast that ſpeaks Blaſphemy. Perſecu<g ref="char:EOLhyphen"/>tion began in <hi>Nero</hi> a Tyrant, but Hereſie began in</hi> Simon <hi>a Witch, Per<g ref="char:EOLhyphen"/>ſecution began about</hi> 66 <hi>years after Chriſts Aſcention, but Hereſie im<g ref="char:EOLunhyphen"/>mediately</hi>
+               <pb n="11" facs="tcp:40635:12"/>
+               <hi>after Chriſts departure about the Sixth year of</hi> Caligulas <hi>Reign. Perſecution is the wild Boar of the Foreſt, Hereſie is the lit<g ref="char:EOLhyphen"/>tle Fox that eateth the tender Grapes.</hi>
+            </p>
+            <p>
+               <hi>Oh ye falſ teachers, ſpeak nor write any more that which is erroneous, can't you be content with deceiving your own ſouls, but you muſt deceive others too. O profligate flagitious Wretches, that muſt embrue your hands in the blood of ſouls, that you can't go to hell alone, but you muſt have company with you, that you muſt put a Cheat not only upon your ſelves, but upon others. If ever you are ſaved it muſt be by fire. Spair your pains, coſt, and charges, make much of time, ere long it will be no more, ſpend no more of it in erroneous Excogitation. Ac<g ref="char:EOLhyphen"/>knowledge your ſelves lying Prophets, confeſs your faults and errors, God is Faithful and Juſt, to forgive and cleanſe from all unrighteouſ<g ref="char:EOLhyphen"/>neſs. Call home your Deviliſh Pamphlets and Books, Rec<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> what you have written and ſaid, Now you may and you ſhall do well, ere long you muſt, but then it ſhall go ill: Beſides,</hi>
+            </p>
+            <p>
+               <hi>Not only dammage of ſoul accrues by ſuch kind of ſervice, but alſo the thing aim'd at ſhall never come to paſs.</hi> Veritas vincit, <hi>Truth at laſt will Triumph, it ſhall never be wholly Eclipſed, and therefore all your attempts, (O ye Promulgators of Errour) will be but vain. I truſt in God that truth will never go out of this Land, notwithstanding the ſpecious pretence, of truths Enemyes, though their books are publiſh'd abroad, having fair Titles in their Frontiſpieces, promiſing fair, I ſay in their Title pages, yet ſome piercing eyes there are that (with facility) perceiveth the Croaking Toads, and crawling vipers that ſwarms therein, and cauſeth them immediately to die the death. Oh that the conſideration of the vileneſs of the ſervice, hurt of the ſoul, and im<g ref="char:EOLhyphen"/>poſſibility of effecting what in error is deſigned, might prevail upon theſe poor men to proceed no further, for though they are the Leaders of a great many to hell: Yet they will be as unable to bear the heat of hell as others.</hi>
+            </p>
+            <p>
+               <hi>Men and Brethren according to the Fleſh, weigh theſe things ſeri<g ref="char:EOLhyphen"/>ouſly, and then tell me whether hitherto ye have not been the ſervants of the Devil and your own humours. That all our infamous hererodox teachers, may become famous orthodox teachers hath been, Is, and ſhall be the earneſt Prayers of him who is an earneſt well-wiſher to all your ſouls,</hi>
+            </p>
+            <closer>
+               <signed>THO. POWEL,</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="12" facs="tcp:40635:13"/>
+            <head>POSTSCRIPT.</head>
+            <p>IF ſo be any of my Adverſaries ſhall return an Anſwer hereunto, though I know not unto what; I have been ſo faithful in what I have written; yet if they do, I expect, and alſo every Judicious Reader, that in the firſt place they clear themſelves of thoſe notorious Lies and Forgeries that I have charg'd them with, or elſe manifeſt repentance for the ſame, in making confeſſion thereof unto the world, and then I preſume we ſhall be ſatisfied. If they ſay any thing in the defence of their Principles, I expect that it be perti<g ref="char:EOLhyphen"/>nent, and then I ſhall do according as God may direct; If impertinent, as they uſe to do, any competent Judge will then diſcern what a ridiculous Sect the Quakers are, and the badneſs of ſuch a cauſe, that is fain to be ſupported, either by nothing at all ſaid in the defence thereof, or if any thing is ſaid, it is in pertinent, irrational and abſurd. In the mean time I leave this to their conſideration, adviſing them to take heed what they do. For Mr. <hi>Hicks</hi> in my Preſence, and the Preſence of ſeveral others, at my Meeting in the Countrey, offered to prove their Religion a Cheat, and moreover hath promiſed me to do it at any time, with any one Perſon that they ſhall Aſſign.</p>
+            <closer>
+               <signed>Tho. Powell.</signed>
+               <signed>
+                  <hi>What Occaſion there has been for my Name in this Book, I Approve</hi> Thomas Bye.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
